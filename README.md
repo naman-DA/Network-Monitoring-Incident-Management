@@ -1,6 +1,10 @@
-# NetOps — Network Monitoring & Incident Management System
+## NetOps — Network Monitoring & Incident Management System
 
 A learning/demo network operations dashboard built with Python, Flask, SQLite, Bootstrap and Chart.js.
+
+## Dashboard Preview
+
+![NetOps Dashboard](screenshots/dashboard.png)
 
 ## Features
 - Register IPv4/IPv6 devices with normal or critical priority.
